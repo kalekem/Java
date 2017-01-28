@@ -29,11 +29,11 @@ public class BrandeisSage {
 			
 			//enter your username
 			Thread.sleep(2000);
-			driver.findElement(By.name("email")).sendKeys("kalekemcleophas01@gmail.com");
+			driver.findElement(By.name("email")).sendKeys("example@yahoo.com");
 			
 			//enter your password
 			Thread.sleep(2000);
-			driver.findElement(By.name("pass")).sendKeys("pkiror");
+			driver.findElement(By.name("pass")).sendKeys("yahoo");
 			
 			//click sign in button
 			Thread.sleep(2000);
